@@ -1,0 +1,550 @@
+Column1   Column2   Column3   Column4   Column5   Column6
+AfghanistaBothsexes        6,4       6,6       7,4       8,1
+AfghanistaMale            10,6      10,9      12,5      14,3
+AfghanistaFemale           2,1       2,1       2,1       1,7
+Albania   Bothsexes        5,6       5,3       7,7       5,8
+Albania   Male               7       6,7       9,5       8,2
+Albania   Female           4,3         4         6       3,6
+Algeria   Bothsexes        3,3       3,4       3,5       4,7
+Algeria   Male             4,9         5       5,1       6,7
+Algeria   Female           1,8       1,8       1,9       2,8
+Angola    Bothsexes        8,9       9,3      10,4      13,9
+Angola    Male              14      14,8      16,7      21,9
+Angola    Female           4,6       4,7       5,1       7,2
+AntiguaandBothsexes        0,5       0,8       0,2       2,1
+AntiguaandMale               0         0       0,5       4,3
+AntiguaandFemale           0,9       1,6         0       0,1
+Argentina Bothsexes        9,1       8,7       8,6       9,5
+Argentina Male              15      14,4      14,4      16,2
+Argentina Female           3,5       3,4       3,2       3,6
+Armenia   Bothsexes        5,7         6       5,4       3,2
+Armenia   Male            10,1      10,7       9,7       5,7
+Armenia   Female             2       2,2       1,9       1,2
+Australia Bothsexes       11,7      12,2        11      12,2
+Australia Male            17,4      18,3      16,8      19,2
+Australia Female             6       6,2       5,3       5,4
+Austria   Bothsexes       11,4      11,5      12,2        16
+Austria   Male            17,5      18,2      19,5      25,2
+Austria   Female           5,7       5,3       5,4       7,9
+AzerbaijanBothsexes        2,6       2,7         3       2,4
+AzerbaijanMale             4,3       4,4       5,1       4,1
+AzerbaijanFemale             1         1       1,2         1
+Bahamas   Bothsexes        1,6       1,6       1,9       2,2
+Bahamas   Male             2,8       2,9       3,3       3,7
+Bahamas   Female           0,5       0,5       0,6       0,7
+Bahrain   Bothsexes        5,7       5,7       5,3       7,3
+Bahrain   Male             7,9       7,9       7,1        10
+Bahrain   Female           2,1       2,2       2,6       3,5
+BangladeshBothsexes        6,1       6,3       6,6         7
+BangladeshMale             5,5       5,5       4,9       6,2
+BangladeshFemale           6,7       7,2       8,4       7,9
+Barbados  Bothsexes        0,4       0,4       1,6       2,1
+Barbados  Male             0,8       0,7       2,6       3,7
+Barbados  Female           0,3       0,3       0,6       0,5
+Belarus   Bothsexes       21,4      21,2      31,9      38,7
+Belarus   Male            39,3      39,2      58,1      70,4
+Belarus   Female           6,2       6,1       9,6        11
+Belgium   Bothsexes       15,7      15,2      16,8      18,8
+Belgium   Male            22,2      21,6        24      27,3
+Belgium   Female           9,4       8,9       9,8      10,6
+Belize    Bothsexes        5,9       6,1       6,5       7,4
+Belize    Male             9,9      10,1      10,6      12,5
+Belize    Female             2       2,1       2,3       2,4
+Benin     Bothsexes       15,7      15,7      15,5      15,6
+Benin     Male            22,6      22,5      22,1      22,2
+Benin     Female           9,6       9,6       9,8       9,9
+Bhutan    Bothsexes       11,6      11,9      12,2      16,3
+Bhutan    Male            13,8      14,1      14,4      19,8
+Bhutan    Female           8,9       9,2       9,5      12,6
+Bolivia(PlBothsexes       12,9      13,1      15,2      18,5
+Bolivia(PlMale            16,9      17,1      19,4      23,2
+Bolivia(PlFemale           8,9       9,2        11      13,8
+BosniaandHBothsexes        6,4       6,6       6,3       9,7
+BosniaandHMale            10,6        11      10,5      16,2
+BosniaandHFemale           2,5       2,6       2,4       3,8
+Botswana  Bothsexes       11,5        12      13,8      15,3
+Botswana  Male            18,3        19      21,8      25,9
+Botswana  Female           5,7       5,9       6,8       5,9
+Brazil    Bothsexes        6,1       6,2       5,7       5,3
+Brazil    Male             9,7       9,7         9       8,9
+Brazil    Female           2,8       2,9       2,8       2,2
+BruneiDaruBothsexes        4,5       4,5         4       3,7
+BruneiDaruMale             6,2       6,1       5,6       5,1
+BruneiDaruFemale           2,8       2,8       2,3       2,2
+Bulgaria  Bothsexes        7,9       7,9       8,6      14,3
+Bulgaria  Male            13,1      13,1        14      22,1
+Bulgaria  Female           3,2       3,2       3,7       7,2
+BurkinaFasBothsexes       14,8      14,8      14,5      15,6
+BurkinaFasMale            22,4      22,5      22,6      24,9
+BurkinaFasFemale           9,1         9       8,4       8,5
+Burundi   Bothsexes         15      14,8      14,9      12,9
+Burundi   Male            23,1      22,7      22,4      18,5
+Burundi   Female           7,7       7,7       8,3       8,5
+CaboVerde Bothsexes       15,1        15      15,8      15,5
+CaboVerde Male            24,1      23,8      24,3      24,1
+CaboVerde Female           7,7       7,7       8,8       8,9
+Cambodia  Bothsexes        5,9       5,9       6,3       7,3
+Cambodia  Male               9         9       9,4      10,6
+Cambodia  Female           3,2       3,2       3,6       4,5
+Cameroon  Bothsexes       19,5      19,6      18,7      21,3
+Cameroon  Male            26,9      27,2      25,9      28,4
+Cameroon  Female          12,5      12,4      11,9      14,6
+Canada    Bothsexes       10,4      10,5      11,1      11,6
+Canada    Male            15,1      15,3      16,3      17,8
+Canada    Female           5,8       5,8       5,9       5,4
+CentralAfrBothsexes       11,6      12,1      13,7      12,8
+CentralAfrMale              18      18,7      20,9      19,3
+CentralAfrFemale             6       6,4       7,3         7
+Chad      Bothsexes       15,5      15,7      16,3        15
+Chad      Male            17,1      17,1      16,4      15,3
+Chad      Female          13,8      14,2      15,9      14,5
+Chile     Bothsexes        9,7        10      11,6      11,1
+Chile     Male              16      16,3      19,1      19,8
+Chile     Female           3,8       4,1       4,5       3,1
+China     Bothsexes          8       8,1        10      14,1
+China     Male             7,9       7,9         9      12,7
+China     Female           8,3       8,5        11      15,6
+Colombia  Bothsexes          7       8,1       7,1         8
+Colombia  Male            11,5      13,3        12        13
+Colombia  Female           2,8       3,3       2,6       3,4
+Comoros   Bothsexes       11,1      11,1        11       8,8
+Comoros   Male            17,6      17,6      17,5      13,6
+Comoros   Female           5,4       5,4       5,3       4,6
+Congo     Bothsexes        9,3       9,5      11,1      14,6
+Congo     Male            13,9      14,2      16,1      20,9
+Congo     Female             5       5,3       6,5       8,7
+CostaRica Bothsexes        7,5       7,5       8,4       7,7
+CostaRica Male            12,8      12,8      14,5      13,9
+CostaRica Female           2,3       2,3       2,4       1,8
+Côted'IvoiBothsexes         23      22,8      20,7      16,5
+Côted'IvoiMale              32      31,9      29,1      23,1
+Côted'IvoiFemale            13      12,9      11,4       9,1
+Croatia   Bothsexes       11,5      12,3      13,3      16,8
+Croatia   Male            18,8      19,7      21,5      28,1
+Croatia   Female           5,1       5,9         6       7,1
+Cuba      Bothsexes       10,1        10      11,4      15,8
+Cuba      Male            16,4      16,3      18,3      22,9
+Cuba      Female           4,1         4       4,8       9,1
+Cyprus    Bothsexes        4,5       4,3       4,9       2,1
+Cyprus    Male             7,2       6,4       7,7       2,7
+Cyprus    Female           1,9       2,2       2,3       1,5
+Czechia   Bothsexes       10,5      10,6      12,3      14,1
+Czechia   Male            17,2      17,7      21,1      23,8
+Czechia   Female           4,2         4         4       5,3
+DemocraticBothsexes       10,6      10,8      11,6      10,2
+DemocraticMale            14,8      15,2      16,3      14,6
+DemocraticFemale             8       8,2         9       7,7
+DemocraticBothsexes        9,7       9,5       9,5      10,9
+DemocraticMale              15      14,8      14,7      16,7
+DemocraticFemale           4,9       4,8       4,8       6,1
+Denmark   Bothsexes        9,2       8,6       9,3      12,7
+Denmark   Male            13,2      11,9      13,2      19,1
+Denmark   Female           5,2       5,4       5,5       6,5
+Djibouti  Bothsexes        8,5       8,2       7,2       8,6
+Djibouti  Male            11,9      11,6       9,9      11,3
+Djibouti  Female           5,3       5,1       4,7       6,1
+DominicanRBothsexes       10,5      10,2         9      10,9
+DominicanRMale            17,9      17,5      14,9      18,1
+DominicanRFemale           3,2       3,2       3,2       3,8
+Ecuador   Bothsexes        7,2       9,7       8,7       6,3
+Ecuador   Male            10,7      14,8      12,8       9,1
+Ecuador   Female           3,8       4,9       4,7       3,7
+Egypt     Bothsexes        4,4       4,2         4       3,9
+Egypt     Male             7,2       6,8       6,5       6,3
+Egypt     Female           1,7       1,7       1,6       1,5
+ElSalvadorBothsexes       13,5      13,9      11,3      14,8
+ElSalvadorMale            24,8      25,3      20,2      24,4
+ElSalvadorFemale           4,3       4,4       4,1       6,6
+EquatorialBothsexes         22        22      22,2      21,2
+EquatorialMale            31,3      31,5        33      33,5
+EquatorialFemale          10,8      10,7       9,7       8,4
+Eritrea   Bothsexes       13,8      14,1        15      18,9
+Eritrea   Male            22,4      22,8      23,8      28,3
+Eritrea   Female           6,1       6,3         7      10,4
+Estonia   Bothsexes       14,4      13,3      14,9      25,4
+Estonia   Male            25,6      23,9      26,6      43,8
+Estonia   Female           4,4       3,8       4,5       9,7
+Eswatini  Bothsexes       16,7      16,5      15,5      16,6
+Eswatini  Male            25,4      25,1      24,4      26,1
+Eswatini  Female           9,6       9,4       8,1       8,9
+Ethiopia  Bothsexes       11,4      11,5        12      13,7
+Ethiopia  Male            18,7      18,7      19,2        21
+Ethiopia  Female           4,7       4,8       5,4       6,6
+Fiji      Bothsexes        5,5       5,6       5,2       4,9
+Fiji      Male             8,8       8,9       7,9       6,8
+Fiji      Female           2,5       2,5       2,5       3,1
+Finland   Bothsexes       13,8      12,4      16,6      21,6
+Finland   Male            20,8        19      25,3      32,8
+Finland   Female           6,8       5,7         8      10,7
+France    Bothsexes       12,1      12,5      14,8      16,9
+France    Male            17,9      18,5      21,8      25,1
+France    Female           6,5       6,7       8,1       9,3
+Gabon     Bothsexes        9,6       9,9       9,2       8,9
+Gabon     Male              15      15,5      14,7      14,1
+Gabon     Female           4,3       4,4       4,1       4,5
+Gambia    Bothsexes         10      10,1        10      12,3
+Gambia    Male            12,8      12,9      12,7      14,6
+Gambia    Female           7,3       7,4       7,3      10,1
+Georgia   Bothsexes        6,7       6,7       5,8       5,4
+Georgia   Male            12,3      12,2      10,6       9,8
+Georgia   Female           1,9       1,9       1,6       1,8
+Germany   Bothsexes        9,1       9,3       9,8      11,4
+Germany   Male            13,6      13,9      15,3        18
+Germany   Female           4,8       4,9       4,6       5,4
+Ghana     Bothsexes        8,7       8,6       7,8       7,2
+Ghana     Male            15,8      15,6      14,1      11,6
+Ghana     Female           2,9       2,9       2,9       2,9
+Greece    Bothsexes        3,8       3,6       2,6       2,9
+Greece    Male             6,1       5,8       4,6       4,5
+Greece    Female           1,5       1,5       0,6       1,2
+Grenada   Bothsexes        1,7       1,1       0,9       2,7
+Grenada   Male             2,1       1,5       2,2       4,1
+Grenada   Female             1       0,6         0       1,5
+Guatemala Bothsexes        2,9       3,4       3,3       3,9
+Guatemala Male             4,4         5       5,4       6,5
+Guatemala Female           1,7       1,9       1,4       1,6
+Guinea    Bothsexes       10,5      10,7      11,2      10,6
+Guinea    Male            12,7      12,9      13,7      12,3
+Guinea    Female           8,4       8,7       8,7       9,1
+Guinea-BisBothsexes        7,4       7,3       7,9       9,2
+Guinea-BisMale             8,9       8,8       9,5      10,7
+Guinea-BisFemale           6,1         6       6,4       7,9
+Guyana    Bothsexes       30,2      30,3      29,3      26,7
+Guyana    Male            46,6      46,6      44,9      41,2
+Guyana    Female          14,2      14,3      14,1      12,8
+Haiti     Bothsexes       12,2      12,2      10,9      10,3
+Haiti     Male            18,3      18,5      16,5      16,3
+Haiti     Female           6,4       6,4       5,7       4,8
+Honduras  Bothsexes        3,4       3,3       3,1       3,3
+Honduras  Male             5,3       5,1       4,8       5,1
+Honduras  Female           1,7       1,6       1,6       1,7
+Hungary   Bothsexes       13,6      14,7      19,5      26,1
+Hungary   Male            22,2      24,3      33,2      43,9
+Hungary   Female           6,2       6,6       7,8      10,6
+Iceland   Bothsexes       13,3      12,9      12,3        16
+Iceland   Male            21,7      20,9        19      25,4
+Iceland   Female           4,7       4,8       5,6       6,4
+India     Bothsexes       16,5      16,7      17,1      18,7
+India     Male            18,5      18,8      19,1      21,3
+India     Female          14,5      14,7      15,1      16,1
+Indonesia Bothsexes        3,7       3,7         4       4,3
+Indonesia Male             5,2       5,3       5,6       5,9
+Indonesia Female           2,2       2,2       2,4       2,7
+Iran(IslamBothsexes          4         4       5,9      10,7
+Iran(IslamMale             4,9       4,9       7,9      12,5
+Iran(IslamFemale           3,1         3       3,9       8,8
+Iraq      Bothsexes        4,1       4,1       3,8       3,8
+Iraq      Male             4,7       4,9       4,7         5
+Iraq      Female           3,4       3,4       2,9       2,7
+Ireland   Bothsexes       10,9      10,8      11,3      11,8
+Ireland   Male            17,6      17,6      17,6      19,3
+Ireland   Female           4,2       4,2         5       4,4
+Israel    Bothsexes        5,2       4,8       7,2       7,4
+Israel    Male             8,2       7,7      12,1      12,1
+Israel    Female           2,4       2,1       2,5         3
+Italy     Bothsexes        5,5       5,3       5,2       5,8
+Italy     Male             8,4       8,2       8,3         9
+Italy     Female           2,6       2,5       2,3       2,8
+Jamaica   Bothsexes          2         2         2       2,5
+Jamaica   Male             3,2       3,2       3,2       4,2
+Jamaica   Female           0,9       0,9       0,9       0,8
+Japan     Bothsexes       14,3      15,1        19      18,8
+Japan     Male            20,5      21,6      27,6        28
+Japan     Female           8,1       8,6      10,4       9,9
+Jordan    Bothsexes        3,7       3,7       3,7       4,8
+Jordan    Male             4,7       4,7       4,7       5,8
+Jordan    Female           2,7       2,7       2,7       3,7
+KazakhstanBothsexes       22,8      25,2        32      34,9
+KazakhstanMale            40,1      44,2      56,1      63,1
+KazakhstanFemale           7,7       8,5      10,7      10,4
+Kenya     Bothsexes        5,6       5,5       5,7       8,2
+Kenya     Male             9,7       9,4       9,5      13,2
+Kenya     Female           2,1       2,1       2,3       3,6
+Kiribati  Bothsexes       15,2      15,3      15,3      15,6
+Kiribati  Male            25,9        26      25,8      25,6
+Kiribati  Female           5,4       5,5       5,8       6,5
+Kuwait    Bothsexes        2,2       2,2       1,5       1,6
+Kuwait    Male             2,5       2,5       1,7       1,8
+Kuwait    Female           1,7       1,7       1,1       1,4
+KyrgyzstanBothsexes        9,1       8,8      11,9      15,4
+KyrgyzstanMale            14,8      14,5        20      26,5
+KyrgyzstanFemale           3,7       3,5       4,4       5,4
+LaoPeople'Bothsexes        9,3       9,3       9,9      12,4
+LaoPeople'Male            12,9      12,8      13,5      16,8
+LaoPeople'Female           6,1       6,1       6,6       8,2
+Latvia    Bothsexes       17,2      17,3      18,8      29,7
+Latvia    Male              31      30,9      35,8      54,3
+Latvia    Female           5,1       5,3       4,2       9,5
+Lebanon   Bothsexes        3,2       3,3       3,2       3,2
+Lebanon   Male             4,2       4,2       3,9       4,5
+Lebanon   Female           2,2       2,3       2,4       2,1
+Lesotho   Bothsexes       28,9      28,5      27,6      26,8
+Lesotho   Male            22,7      22,5      22,2      21,3
+Lesotho   Female          32,6      32,1        31      30,2
+Liberia   Bothsexes       13,4      12,9      13,2      11,2
+Liberia   Male            13,8      13,2      13,5      12,9
+Liberia   Female            13      12,6      12,7       9,5
+Libya     Bothsexes        5,5       4,6       5,8       6,2
+Libya     Male             8,7       7,1       9,1       9,1
+Libya     Female           2,3       2,1       2,4         3
+Lithuania Bothsexes       25,7      28,8      31,3      46,3
+Lithuania Male            47,5      51,5      56,4      81,7
+Lithuania Female           6,7       8,9       9,5      15,6
+LuxembourgBothsexes       10,4      11,6      10,3      14,1
+LuxembourgMale              15      17,4      15,3      20,6
+LuxembourgFemale           5,8       5,7       5,2       8,2
+MadagascarBothsexes        6,9         7       7,7       8,5
+MadagascarMale            10,5      10,6      11,4      12,1
+MadagascarFemale           3,6       3,7       4,2         5
+Malawi    Bothsexes        7,8       7,6       8,1      11,9
+Malawi    Male            13,7      13,3      14,2      20,3
+Malawi    Female           3,2       3,2       3,2       4,7
+Malaysia  Bothsexes        6,2       6,1       6,3       7,4
+Malaysia  Male             8,7       8,7         9      10,4
+Malaysia  Female           3,6       3,6       3,6       4,4
+Maldives  Bothsexes        2,7         3       3,7       6,5
+Maldives  Male             3,6         4       4,7       7,7
+Maldives  Female           1,6       1,8       2,4       5,1
+Mali      Bothsexes        8,9       8,9       8,7         9
+Mali      Male            13,5      13,5      13,2      13,5
+Mali      Female           4,7       4,8       4,6         5
+Malta     Bothsexes        6,5         7         7       5,7
+Malta     Male            10,3      10,8      12,2       8,9
+Malta     Female           2,8       3,2       1,6       2,4
+MauritaniaBothsexes        7,5       7,4       6,8       6,2
+MauritaniaMale            12,1      11,9      11,1       9,9
+MauritaniaFemale           3,6       3,5       3,2         3
+Mauritius Bothsexes        7,3       8,1       7,7      10,8
+Mauritius Male            12,5      12,1      12,2      17,3
+Mauritius Female           2,2       4,3       3,5       4,5
+Mexico    Bothsexes        5,2       5,6       4,8         4
+Mexico    Male             8,2         9       7,9       6,9
+Mexico    Female           2,3       2,4       1,9       1,2
+MicronesiaBothsexes       11,3      11,6      11,6      12,6
+MicronesiaMale            16,2      16,7      16,5        17
+MicronesiaFemale           6,2       6,4       6,8       8,3
+Mongolia  Bothsexes       13,3      13,4      16,1      19,7
+Mongolia  Male            23,3      23,4        28      31,5
+Mongolia  Female           3,8       3,9       4,8       8,2
+MontenegroBothsexes        7,9       7,7       8,3       9,4
+MontenegroMale            12,6      12,3      12,9      13,6
+MontenegroFemale           3,6       3,5       4,1       5,6
+Morocco   Bothsexes        3,1       3,1       4,1       8,2
+Morocco   Male             2,5       2,5         3       6,7
+Morocco   Female           3,6       3,7         5       9,5
+MozambiqueBothsexes        8,4       8,5       9,5      14,2
+MozambiqueMale              14        14      15,5      22,9
+MozambiqueFemale           4,1       4,2       4,9       7,3
+Myanmar   Bothsexes        8,1         8       7,9       7,9
+Myanmar   Male             6,3       6,3       6,2       4,8
+Myanmar   Female           9,8       9,6       9,4      10,7
+Namibia   Bothsexes       11,5      11,8      13,5      14,5
+Namibia   Male            19,4      19,8      22,7      24,3
+Namibia   Female           4,9       5,1       5,7       5,9
+Nepal     Bothsexes        9,6      10,1      12,2        18
+Nepal     Male            11,4      11,9      13,5      20,9
+Nepal     Female             8       8,5        11      15,5
+NetherlandBothsexes        9,6       9,7       8,2       8,3
+NetherlandMale            12,9      12,9      11,6      11,4
+NetherlandFemale           6,4       6,4       4,8       5,3
+NewZealandBothsexes       11,6      11,6      12,2      12,7
+NewZealandMale            17,3      17,3      17,7      21,3
+NewZealandFemale           6,2       6,2       6,9       4,5
+Nicaragua Bothsexes       11,9      11,9      12,4      18,3
+Nicaragua Male            19,2      19,3      19,8      29,4
+Nicaragua Female             5       5,1       5,5         8
+Niger     Bothsexes          9       9,1       9,4       8,8
+Niger     Male            11,5      11,6      11,7      10,7
+Niger     Female           6,7       6,7       7,2         7
+Nigeria   Bothsexes       17,3      17,5      18,2      18,5
+Nigeria   Male            17,5      17,2      16,1        16
+Nigeria   Female          17,1      17,6      20,1      20,6
+Norway    Bothsexes       10,1      10,2      10,6        12
+Norway    Male            13,6      13,3      14,7      18,1
+Norway    Female           6,5         7       6,5         6
+Oman      Bothsexes        3,5       3,6       3,5       4,8
+Oman      Male             4,8         5       5,1       7,1
+Oman      Female           0,9         1         1       1,6
+Pakistan  Bothsexes        3,1       3,1       3,3         4
+Pakistan  Male               3       3,1       3,2       3,6
+Pakistan  Female           3,1       3,2       3,5       4,4
+Panama    Bothsexes        4,4         4       5,3       6,6
+Panama    Male             7,6       6,7       9,1      11,7
+Panama    Female           1,2       1,4       1,5       1,6
+PapuaNewGuBothsexes          7         7       6,4       8,4
+PapuaNewGuMale            10,2      10,1       9,1      11,8
+PapuaNewGuFemale           3,8       3,8       3,7         5
+Paraguay  Bothsexes        9,3       9,6       9,3        11
+Paraguay  Male            12,3      12,9      12,6      15,6
+Paraguay  Female           6,2       6,3         6       6,4
+Peru      Bothsexes        5,1       5,1       4,9         6
+Peru      Male             7,6       7,6       7,5       8,8
+Peru      Female           2,7       2,7       2,5       3,3
+PhilippineBothsexes        3,7       3,8         4       3,1
+PhilippineMale             5,2       5,4       5,7       4,5
+PhilippineFemale           2,3       2,3       2,3       1,8
+Poland    Bothsexes       13,4      13,1      15,5      15,2
+Poland    Male            23,9      23,5        28      26,6
+Poland    Female           3,4       3,3       3,7       4,7
+Portugal  Bothsexes        8,6       8,6       8,8       5,3
+Portugal  Male            14,3      14,3      14,4       9,2
+Portugal  Female           3,8       3,8       4,2       2,1
+Qatar     Bothsexes        5,8       5,7       5,1       3,8
+Qatar     Male             7,3       7,1       6,5       4,9
+Qatar     Female           1,1       1,1       1,1       1,4
+RepublicofBothsexes       20,2      21,4      28,1      14,2
+RepublicofMale            29,6      31,4      39,3      20,8
+RepublicofFemale          11,6      12,5      18,7       8,5
+RepublicofBothsexes       13,4        14        18      15,6
+RepublicofMale            24,1      24,9      32,5      29,2
+RepublicofFemale           3,8       4,5       5,1       4,1
+RepublicofBothsexes        6,2       6,2       4,9       7,1
+RepublicofMale             9,7       9,7       7,2      10,3
+RepublicofFemale             3         3       2,6       4,1
+Romania   Bothsexes          8       9,1      11,5      11,7
+Romania   Male            13,9      16,2      19,8      19,9
+Romania   Female           2,4       2,5       3,7       3,8
+RussianFedBothsexes       26,5      27,5      34,5      47,5
+RussianFedMale            48,3      49,9      62,3      85,8
+RussianFedFemale           7,5       7,9      10,2      13,7
+Rwanda    Bothsexes         11      11,2      12,5      24,6
+Rwanda    Male            16,9      17,2      18,7      30,5
+Rwanda    Female             6       6,2       7,2      19,4
+SaintLuciaBothsexes        7,3       7,3       6,1       7,4
+SaintLuciaMale            12,7      12,9        11        13
+SaintLuciaFemale           2,1       2,1       1,6       2,4
+SaintVinceBothsexes        2,4       2,7       3,2       7,2
+SaintVinceMale             3,9       4,3       5,7      13,6
+SaintVinceFemale           0,9       1,1       0,6       0,9
+Samoa     Bothsexes        5,4       5,5       6,4      10,7
+Samoa     Male             8,7       8,9      10,3      16,7
+Samoa     Female           2,2       2,2       2,6       4,6
+SaoTomeandBothsexes        3,1       3,1       2,8       2,7
+SaoTomeandMale             4,2       4,2       3,9       3,8
+SaoTomeandFemale           2,1       2,1       1,9       1,7
+SaudiArabiBothsexes        3,4       3,4       3,8       3,4
+SaudiArabiMale             4,6       4,6       5,4         5
+SaudiArabiFemale           1,7       1,7       1,7       1,4
+Senegal   Bothsexes       11,8      12,1      13,1        14
+Senegal   Male            20,3      20,8      21,9      22,6
+Senegal   Female           5,2       5,4       6,2       6,8
+Serbia    Bothsexes       10,9      10,6      11,3      16,8
+Serbia    Male            17,3      16,8      18,3      25,8
+Serbia    Female           5,2       5,2       5,2       9,1
+SeychellesBothsexes        8,3       8,5         9       9,4
+SeychellesMale              15      15,1      15,6      16,7
+SeychellesFemale           2,1       2,1       2,2       2,5
+SierraLeonBothsexes       16,1      15,7        16      19,2
+SierraLeonMale            18,2      17,4      17,7      21,9
+SierraLeonFemale          14,2      13,9      14,3      16,6
+Singapore Bothsexes        7,9       7,6       8,4      11,7
+Singapore Male            11,1      10,2      11,1      15,5
+Singapore Female           4,9       5,2         6       8,1
+Slovakia  Bothsexes       10,1      10,1      11,4      12,8
+Slovakia  Male            18,4      18,4      20,6      22,2
+Slovakia  Female           2,6       2,6       3,1       4,4
+Slovenia  Bothsexes       13,3      14,8      15,5        26
+Slovenia  Male            22,4      24,3      26,5      40,5
+Slovenia  Female           4,5       5,8       5,1      13,2
+SolomonIslBothsexes        5,9       6,1       7,1      12,7
+SolomonIslMale             8,5       8,8        10      16,9
+SolomonIslFemale           3,2       3,4       4,2       8,4
+Somalia   Bothsexes        8,3       8,3       7,6       8,2
+Somalia   Male            11,5      11,4      10,3        11
+Somalia   Female           5,4       5,4       5,2       5,6
+SouthAfricBothsexes       12,8      13,1      13,9      14,4
+SouthAfricMale            21,7      22,1      22,9      22,7
+SouthAfricFemale           5,1       5,3       6,1       7,1
+SouthSudanBothsexes        6,1         6       6,7         8
+SouthSudanMale             8,3       8,2       9,1        11
+SouthSudanFemale           4,1         4       4,5       5,3
+Spain     Bothsexes        6,1       5,7       5,1       6,5
+Spain     Male             9,3       8,7       8,1      10,4
+Spain     Female           3,1         3       2,2         3
+SriLanka  Bothsexes       14,2      14,5      19,2      30,3
+SriLanka  Male            23,3        24      31,2      47,8
+SriLanka  Female           6,2       6,1       8,4      13,5
+Sudan     Bothsexes        9,5       9,5       9,5       9,5
+Sudan     Male            14,5      14,5      14,6      14,6
+Sudan     Female           4,6       4,5       4,6       4,4
+Suriname  Bothsexes       23,2      24,4      28,3      26,4
+Suriname  Male            36,1        38      43,7      41,5
+Suriname  Female          10,9      11,4      13,3      11,6
+Sweden    Bothsexes       11,7      12,3        12      12,2
+Sweden    Male            15,8      16,9      17,1      16,8
+Sweden    Female           7,4       7,7       6,8       7,7
+SwitzerlanBothsexes       11,3      11,4      11,3      16,8
+SwitzerlanMale            15,8      16,1      15,9      24,7
+SwitzerlanFemale           6,9       6,9         7       9,4
+SyrianArabBothsexes        2,4       2,4       2,4       1,8
+SyrianArabMale             3,8       3,8       3,7       2,9
+SyrianArabFemale           1,1       1,1       1,1       0,8
+TajikistanBothsexes        3,3       3,4       3,4       4,2
+TajikistanMale               5         5         5       6,3
+TajikistanFemale           1,7       1,8       1,8       2,2
+Thailand  Bothsexes       12,9      13,1        13      15,9
+Thailand  Male            21,4      21,7        21      23,7
+Thailand  Female           4,8       4,9       5,5       8,3
+Timor-LestBothsexes        6,4       6,4       7,6      13,6
+Timor-LestMale               9         9      10,5      18,7
+Timor-LestFemale           3,7       3,8       4,7       8,3
+Togo      Bothsexes       16,6      16,3      16,9      17,2
+Togo      Male            22,7      22,3        23      23,2
+Togo      Female          10,9      10,7      11,2      11,8
+Tonga     Bothsexes          4         4       4,3       4,5
+Tonga     Male             5,2       5,2       5,5       5,1
+Tonga     Female           2,9       2,9       3,1       3,9
+TrinidadanBothsexes       12,9      12,8      13,5      15,2
+TrinidadanMale            21,9      21,7      22,1        24
+TrinidadanFemale           4,3       4,4       5,4       6,4
+Tunisia   Bothsexes        3,2       3,3       3,6       3,8
+Tunisia   Male             4,4       4,4         5       5,4
+Tunisia   Female           2,2       2,2       2,3       2,3
+Turkey    Bothsexes        7,2       7,2       8,1       7,3
+Turkey    Male            11,3      11,3      12,8        12
+Turkey    Female           3,2       3,3       3,8       2,9
+TurkmenistBothsexes        7,2       7,5       7,7       9,9
+TurkmenistMale              11      11,6      12,2      16,4
+TurkmenistFemale           3,7       3,8       3,6         4
+Uganda    Bothsexes         20      20,2      21,8      22,8
+Uganda    Male            21,2      21,1      21,2      21,2
+Uganda    Female          18,7      19,2        22      23,9
+Ukraine   Bothsexes       18,5        19      22,6        32
+Ukraine   Male            34,5      35,2      41,5      58,1
+Ukraine   Female           4,7       5,1       6,4       9,5
+UnitedArabBothsexes        2,7       2,7       2,8       3,4
+UnitedArabMale             3,5       3,5       3,6       4,3
+UnitedArabFemale           0,8       0,8       0,9       1,5
+UnitedKingBothsexes        7,6       7,6       6,9       8,1
+UnitedKingMale            11,9      11,6      10,6      12,7
+UnitedKingFemale           3,5       3,7       3,2       3,8
+UnitedRepuBothsexes        9,6       9,5       9,3      11,8
+UnitedRepuMale            14,3      14,2      13,8      18,2
+UnitedRepuFemale           5,4       5,3       5,2       6,4
+UnitedStatBothsexes       13,7      13,3      11,8      10,1
+UnitedStatMale            21,1      20,5      18,6      16,5
+UnitedStatFemale           6,4       6,3       5,2       4,1
+Uruguay   Bothsexes       16,5      17,4      14,9      15,9
+Uruguay   Male            26,8      28,9      24,3        28
+Uruguay   Female           7,1         7       6,7       5,5
+UzbekistanBothsexes        7,4       7,4         6       9,1
+UzbekistanMale            10,3      10,4       8,9      13,9
+UzbekistanFemale           4,6       4,5       3,3       4,5
+Vanuatu   Bothsexes        5,4       5,5       6,2       8,7
+Vanuatu   Male             8,1       8,3       9,1      12,3
+Vanuatu   Female           2,7       2,7       3,2       5,1
+Venezuela(Bothsexes        3,8       3,9       4,5       9,1
+Venezuela(Male             6,6       6,8       7,7      16,1
+Venezuela(Female           1,2       1,2       1,5       2,4
+VietNam   Bothsexes          7         7       7,1       7,5
+VietNam   Male            10,8      10,9        11      11,5
+VietNam   Female           3,4       3,5       3,5       3,9
+Yemen     Bothsexes        9,8       9,9      10,6       9,1
+Yemen     Male            13,4      13,6      14,6      12,8
+Yemen     Female           6,2       6,3       6,6       5,5
+Zambia    Bothsexes       11,3      11,2      11,5      14,1
+Zambia    Male            17,5      17,4      17,9      21,9
+Zambia    Female           6,2       6,1       6,2       7,5
+Zimbabwe  Bothsexes       19,1      18,9      20,6      21,7
+Zimbabwe  Male            29,1      28,7      32,3      35,5
+Zimbabwe  Female          11,1      11,1      11,1       9,8
