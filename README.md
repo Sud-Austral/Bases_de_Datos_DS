@@ -43,19 +43,21 @@ http://estadistica.ssmso.cl/demografia-y-estadisticas-por-tema/
 
 https://www.bcn.cl/siit/estadisticasterritoriales/
 
-Tasa de denuncias de VIF hacia la Mujer
+1 Tasa de denuncias de VIF hacia la Mujer
 
-Áreas verdes con mantenimiento por habitante
+2 Áreas verdes con mantenimiento por habitante
 
-Religión
+3 Religión
 
-Discapacidad
+4 Discapacidad
 
-Empresas y trabajadores segun rubro
+5 Empresas y trabajadores segun rubro
 
 http://observatorio.ministeriodesarrollosocial.gob.cl/indicadores/datos_pobreza_comunal.php
 
-Estimaciones de Tasa de Pobreza por Ingresos y Multidimensional por Comunas, 2017
+6 Estimaciones de Tasa de Pobreza por Ingresos y Multidimensional por Comunas, 2017
 
+https://www.ine.cl/estadisticas/sociales/demografia-y-vitales/nacimientos-matrimonios-y-defunciones
 
+7 Anuario de estadisticas vitales. muerte por tipo de enfermedad.
 
