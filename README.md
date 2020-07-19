@@ -6,23 +6,32 @@ las columnas se separen con ; y puedan ser leidas con facilidad en PowerBI
 2 Se debe comentar: #options("encoding" = "UTF-8") en el codigo R. El resultado crudo del csv 
 en R queda mal configurado pero se leera bien en Excel.
 
-3 Carga automatica en GitHub
+# Carga automatica en GitHub
 
 install.packages("git2r")
 library(git2r)
 
 FileConnection <- file("GitHub.R")
+
 writeLines( paste0("#This is a test script. Run at: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S"))
+
           , FileConnection
+          
           )
+          
 close(FileConnection)
+
 rm(FileConnection)
 
-# Pull the Repo again
+Pull the Repo again
+
 pull( repo = getwd()
-    , credentials = cred_user_pass( username = "YourUserName" # BE CAREFUL!!
-                                  , password = "YourPassord"  # BE CAREFUL!!
-                                  )                           # NEVER EVER PUSH YOUR CREDENTIALS TO ANY REPOSITORY!!!!
+
+    , credentials = cred_user_pass( username = "YourUserName" 
+    
+                                  , password = "YourPassord"  
+                                  
+                                  )                           
     )
 
 
