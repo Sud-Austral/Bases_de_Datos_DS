@@ -40,4 +40,10 @@ https://rpubs.com/chrimaho/GitHubAutomation
 % ![](mongodb.png)
 -->
 http://estadistica.ssmso.cl/demografia-y-estadisticas-por-tema/
+
 https://www.bcn.cl/siit/estadisticasterritoriales/
+
+Tasas a nivel de Comuna - Centro de Estudios MINEDUC
+centroestudios.mineduc.cl › uploads › sites › 2018/08 › 2...
+XLS
+10 ago. 2018 - Anuario de Estadisticas Vitales 2012 INE, tasas de mortalidad por ... las tasa de deserción del sistema global, por curso, región, comuna y dependencia. ... 46, PROVINCIA ANTARTICA CHILENA, 13, 428, 3.0%, 13, 428, 3.0% ...
