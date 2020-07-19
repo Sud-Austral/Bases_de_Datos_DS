@@ -39,7 +39,9 @@ pull( repo = getwd()
 https://rpubs.com/chrimaho/GitHubAutomation
 % ![](mongodb.png)
 -->
-http://estadistica.ssmso.cl/demografia-y-estadisticas-por-tema/
+http://cead.spd.gov.cl/centro-de-documentacion
+
+8 DMCS
 
 https://www.bcn.cl/siit/estadisticasterritoriales/
 
