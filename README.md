@@ -43,15 +43,19 @@ http://estadistica.ssmso.cl/demografia-y-estadisticas-por-tema/
 
 https://www.bcn.cl/siit/estadisticasterritoriales/
 
-Tasas a nivel de Comuna - Centro de Estudios MINEDUC
-centroestudios.mineduc.cl › uploads › sites › 2018/08 › 2...
-XLS
-10 ago. 2018 - Anuario de Estadisticas Vitales 2012 INE, tasas de mortalidad por ... las tasa de deserción del sistema global, por curso, región, comuna y dependencia. ... 46, PROVINCIA ANTARTICA CHILENA, 13, 428, 3.0%, 13, 428, 3.0% ...
+Tasa de denuncias de VIF hacia la Mujer
 
-Estimaciones de Tasa de Pobreza por Ingresos y Multidimensional por Comunas, 2017
+Áreas verdes con mantenimiento por habitante
+
+Religión
+
+Discapacidad
+
+Empresas y trabajadores segun rubro
 
 http://observatorio.ministeriodesarrollosocial.gob.cl/indicadores/datos_pobreza_comunal.php
 
+Estimaciones de Tasa de Pobreza por Ingresos y Multidimensional por Comunas, 2017
 
 
 
