@@ -12,6 +12,11 @@ The Automation of GitHub Processes in RStudio
 
 https://rpubs.com/chrimaho/GitHubAutomation
 
+Tutorial: Deploy Docker containers to Azure App Service with Visual Studio Code
+
+https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-containers-01
+
+
 install.packages("git2r")
 library(git2r)
 
