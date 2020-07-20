@@ -8,6 +8,10 @@ en R queda mal configurado pero se leera bien en Excel.
 
 # Carga automatica en GitHub
 
+The Automation of GitHub Processes in RStudio
+
+https://rpubs.com/chrimaho/GitHubAutomation
+
 install.packages("git2r")
 library(git2r)
 
