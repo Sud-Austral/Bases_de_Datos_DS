@@ -6,6 +6,10 @@ las columnas se separen con ; y puedan ser leidas con facilidad en PowerBI
 2 Se debe comentar: #options("encoding" = "UTF-8") en el codigo R. El resultado crudo del csv 
 en R queda mal configurado pero se leera bien en Excel.
 
+# para R0:
+
+Datos/datacovidChile/CovidChileV2a.xlsx 
+
 # Carga automatica en GitHub
 
 The Automation of GitHub Processes in RStudio
