@@ -1,5 +1,8 @@
 # Bases_de_Datos_DS
 
+Data Covid Panama:
+https://github.com/Sud-Austral/Datos_Panama/blob/master/datacovidpa/Localiza%20PN%20v1.xlsx
+
 1 Los decimales en los excels deben ser con comas y guardarse en archivos CSV (MS-DOS) para que 
 las columnas se separen con ; y puedan ser leidas con facilidad en PowerBI
 
