@@ -1,4 +1,4 @@
-# Bases_de_Datos_DS
+# Bases de Datos para Data Science
 
 Data Covid Panama:
 https://github.com/Sud-Austral/Datos_Panama/blob/master/datacovidpa/Localiza%20PN%20v1.xlsx
