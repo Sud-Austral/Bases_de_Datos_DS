@@ -1,5 +1,7 @@
 # Bases de Datos para Data Science
 
+http://www.seguridadpublica.gov.cl/estadisticas/tasa-de-denuncias-y-detenciones/delitos-de-mayor-connotacion-social-casos-policiales/
+
 Data Covid Panama:
 https://github.com/Sud-Austral/Datos_Panama/blob/master/datacovidpa/Localiza%20PN%20v1.xlsx
 
